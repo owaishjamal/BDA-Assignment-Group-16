@@ -1,0 +1,23 @@
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.2
+seaborn==0.13.2
+scikit-learn==1.5.2
+
+# Data acquisition
+sec-edgar-downloader==5.0.2
+yfinance==0.2.43
+beautifulsoup4==4.12.3
+requests==2.32.3
+
+# NLP / ML models
+openai==1.45.0
+
+# Notebook & interactive
+jupyter==1.1.1
+notebook==7.2.2
+ipykernel==6.29.5
+
+# Utils
+tqdm==4.66.5
+python-dotenv==1.0.1
