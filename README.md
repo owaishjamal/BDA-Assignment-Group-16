@@ -90,8 +90,8 @@ BDA-Assignment-Group-16/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/<your-username>/FDA3-RevenueRecognition.git
-cd FDA3-RevenueRecognition
+git clone https://github.com/<your-username>/BDA-Assignment-Group-16.git
+cd BDA-Assignment-Group-16
 ````
 
 ### 2. Install Dependencies
