@@ -25,13 +25,13 @@ This repo contains the **pipeline, datasets, ML models, visualizations, and docu
 ```
 
 FDA3-RevenueRecognition/
-├── data/             # Collected datasets (CSV)
-│   ├── FDA3\_Analytics\_20250902.csv
-│   ├── revenue\_recognition\_analysis.csv
-│   └── mapping\_to\_url.csv
+├── datasets/             # Collected datasets (CSV)
+│   ├── FDA3_Analytics_20250902.csv
+│   ├── revenue_recognition_analysis.csv
+│   └── mapping_to_url.csv
 │
-├── notebooks/        # Jupyter Notebooks
-│   └── BTECH\_16.ipynb
+├── BTECH_16.ipynb/        # Jupyter Notebook
+│   
 │
 ├── docs/             # Project documentation PDFs
 │   ├── FDA-3\_Deliverable-01\_Documentation.pdf
@@ -40,10 +40,6 @@ FDA3-RevenueRecognition/
 ├── visuals/          # Plots & dashboards
 │   └── FDA3\_Revenue\_Analysis\_20250902.png
 │
-├── src/              # Core Python scripts (optional future refactor)
-│   ├── extraction.py
-│   ├── analytics.py
-│   └── utils.py
 │
 ├── requirements.txt  # Dependencies
 └── README.md         # This file
