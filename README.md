@@ -34,11 +34,11 @@ FDA3-RevenueRecognition/
 │   
 │
 ├── docs/             # Project documentation PDFs
-│   ├── FDA-3\_Deliverable-01\_Documentation.pdf
-│   └── FDA-3\_Deliverable-02\_Documentation.pdf
+│   ├── FDA-3_Deliverable-01_Documentation.pdf
+│   └── FDA-3_Deliverable-02_Documentation.pdf
 │
 ├── visuals/          # Plots & dashboards
-│   └── FDA3\_Revenue\_Analysis\_20250902.png
+│   └── FDA3_Revenue_Analysis_20250902.png
 │
 │
 ├── requirements.txt  # Dependencies
@@ -79,6 +79,7 @@ FDA3-RevenueRecognition/
 | NVIDIA (NVDA)  | 114%           | 8.0        | **High** |
 | JPMorgan (JPM) | 12%            | 7.5        | **High** |
 | Walmart (WMT)  | 4%             | 3.0        | Low      |
+
 
 <p align="center">
   <img src="visuals/FDA3_Revenue_Analysis_20250902.png" width="700"/>
@@ -153,5 +154,4 @@ Core libraries used:
 
 ```
 
----
 
