@@ -82,7 +82,7 @@ FDA3-RevenueRecognition/
 
 
 <p align="center">
-  <img src="visuals/FDA3_Revenue_Analysis_20250902.png" width="700"/>
+  <img src="Visuals/FDA3_Revenue_Analysis_20250902.png" width="700"/>
 </p>
 
 ---
