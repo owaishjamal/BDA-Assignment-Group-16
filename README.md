@@ -24,7 +24,7 @@ This repo contains the **pipeline, datasets, ML models, visualizations, and docu
 
 ```
 
-FDA3-RevenueRecognition/
+BDA-Assignment-Group-16/
 ├── datasets/             # Collected datasets (CSV)
 │   ├── FDA3_Analytics_20250902.csv
 │   ├── revenue_recognition_analysis.csv
@@ -32,7 +32,6 @@ FDA3-RevenueRecognition/
 │
 ├── BTECH_16.ipynb/        # Jupyter Notebook
 │   
-│
 ├── docs/             # Project documentation PDFs
 │   ├── FDA-3_Deliverable-01_Documentation.pdf
 │   └── FDA-3_Deliverable-02_Documentation.pdf
@@ -138,16 +137,17 @@ Core libraries used:
 
 ## 🧑‍🤝‍🧑 Team Members
 
-* Shivam Singh Parihar (IIIT Allahabad, Roll No: IIT2022130)
-* Anshul Singh (IIIT Allahabad, Roll No: IIT2022169)
-* Owaish Jamal (IIIT Allahabad, Roll No: IIB2022037)
-* Shreya Sinha (IIIT Allahabad, Roll No: IIB2022034)
+* Shivam Singh Parihar (Roll No: IIT2022130)
+* Anshul Singh (Roll No: IIT2022169)
+* Shreya Sinha (Roll No: IIB2022034)
+* Owaish Jamal (Roll No: IIB2022037)
+
 
 ---
 
 
 
-⭐ If you find this project useful, consider giving it a star!
+⭐ If you find this project useful, consider giving it a star or full marks maybe :)!
 
 
 
